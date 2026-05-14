@@ -1,4 +1,4 @@
-FROM nginx:1.23-alpine AS base
+FROM nginx:1.31-alpine AS base
 
 LABEL author="Meysam Azad <Meysam.Azad@gmail.com>"
 
